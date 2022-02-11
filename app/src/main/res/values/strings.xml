@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitGuide</string>
+    <string name="todoId">ID: %s</string>
+</resources>
